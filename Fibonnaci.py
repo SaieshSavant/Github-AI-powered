@@ -9,6 +9,6 @@ n =int(input("Enter the no:"))
 result = fibonacci(n)
 print(f"The first {n} numbers in the Fibonacci series are: {result}")
 '''
-Enter the no:6
-The first 6 numbers in the Fibonacci series are: [0, 1, 1, 2, 3, 5]
+Enter the no:10
+The first 10 numbers in the Fibonacci series are: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 '''
